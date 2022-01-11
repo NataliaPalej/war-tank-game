@@ -55,6 +55,10 @@
     <object>objects\object_tank2</object>
     <object>objects\object_explosionLarge</object>
     <object>objects\object_explosionSmall</object>
+    <object>objects\object_parentShell</object>
+    <object>objects\object_shell1</object>
+    <object>objects\object_shell2</object>
+    <object>objects\object_pickup</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\battle_arena</room>
