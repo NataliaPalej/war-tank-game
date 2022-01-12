@@ -59,6 +59,12 @@
     <object>objects\object_shell1</object>
     <object>objects\object_shell2</object>
     <object>objects\object_pickup</object>
+    <object>objects\object_parentRocket</object>
+    <object>objects\object_rocket1</object>
+    <object>objects\object_rocket2</object>
+    <object>objects\object_parentBouncing</object>
+    <object>objects\object_bouncing1</object>
+    <object>objects\object_bouncing2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\battle_arena</room>
