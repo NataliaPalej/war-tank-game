@@ -329,7 +329,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-10</string>
+            <string>0</string>
           </argument>
         </arguments>
       </action>
@@ -673,7 +673,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-10</string>
+            <string>0</string>
           </argument>
         </arguments>
       </action>

@@ -50,21 +50,23 @@
     </objects>
     <object>objects\object_wall1</object>
     <object>objects\object_wall2</object>
-    <object>objects\object_parentTank</object>
     <object>objects\object_tank1</object>
     <object>objects\object_tank2</object>
     <object>objects\object_explosionLarge</object>
     <object>objects\object_explosionSmall</object>
-    <object>objects\object_parentShell</object>
     <object>objects\object_shell1</object>
     <object>objects\object_shell2</object>
     <object>objects\object_pickup</object>
-    <object>objects\object_parentRocket</object>
     <object>objects\object_rocket1</object>
     <object>objects\object_rocket2</object>
     <object>objects\object_parentBouncing</object>
     <object>objects\object_bouncing1</object>
     <object>objects\object_bouncing2</object>
+    <objects name="parents">
+      <object>objects\object_parentTank</object>
+      <object>objects\object_parentShell</object>
+      <object>objects\object_parentRocket</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\battle_arena</room>
